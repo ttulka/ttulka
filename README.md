@@ -1,10 +1,11 @@
 Ahoy 👋
 
-### What's new aroud me 🙃
+### Check out my stuff 🙃
 
-- New post: [OOP Is Still Cool in 2021](https://blog.ttulka.com/oop-is-still-cool)
-- New series: [Learning WebAssembly](https://blog.ttulka.com/learning-webassembly-series)
-- New post: [Spring Boot Custom Components](https://blog.ttulka.com/spring-boot-custom-components)
-- New pet project: [Domain-driven microservices ecommerce example](https://github.com/ttulka/ddd-example-ecommerce-microservices)
-- New study: [How cohesion and coupling correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate)
-- New tip: [The Interface segregation principle with lambdas](https://blog.ttulka.com/the-interface-segregation-principle-with-lambdas)
+- New post: [Containers under the Hood](https://blog.ttulka.com/containers-under-the-hood)
+- New project: [Desktop app for student observations](https://github.com/ttulka/observations)
+- Blog post: [OOP Is Still Cool in 2021](https://blog.ttulka.com/oop-is-still-cool)
+- Blog post: [How cohesion and coupling correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate)
+- Blog post: [Good and Bad Monolith](https://blog.ttulka.com/good-and-bad-monolith)
+- Blog post: [You Aren’t Gonna Need Microservices](https://blog.ttulka.com/you-are-not-gonna-need-microservices)
+- Blog series: [Learning WebAssembly](https://blog.ttulka.com/learning-webassembly-series)
