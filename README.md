@@ -2,7 +2,8 @@ Ahoy 👋
 
 ### Check out my stuff 🙃
 
-- [New little book *Computer Science for Kids*](https://leanpub.com/computerscienceforkids)
+- [New book *Building a Universal Machine*](https://leanpub.com/universalmachine)
+- [Little book *Computer Science for Kids*](https://leanpub.com/computerscienceforkids)
 - [OOP Is Still Cool in 2023](https://blog.ttulka.com/oop-is-still-cool)
 - [How cohesion and coupling correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate)
 - [Good and Bad Monolith](https://blog.ttulka.com/good-and-bad-monolith)
