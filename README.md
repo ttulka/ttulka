@@ -3,7 +3,7 @@ Ahoy 👋
 ### Check out my stuff 🙃
 
 - [New book about how computers work *Building a Universal Machine*](https://www.amazon.com/dp/B0CZ2K5VQ9)
-- [Little book *Computer Science for Kids*](https://leanpub.com/computerscienceforkids)
+- [Little book *Computer Science for Kids*](https://www.amazon.com/dp/B0CWYPL1ZL)
 - [OOP Is Still Cool in 2024](https://blog.ttulka.com/oop-is-still-cool)
 - [How cohesion and coupling correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate)
 - [Good and Bad Monolith](https://blog.ttulka.com/good-and-bad-monolith)
